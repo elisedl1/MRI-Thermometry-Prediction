@@ -2,13 +2,13 @@
 **Segmentation Code:**
   <br />-"segmentation_all.ipynb"
   <br />-The root directory contains all "LP-xxxx" files. This must include anatomicalProbesEye and temperatureData.
-  <br />-references/Explanations are included in code at the end of each major function
+  <br />-references/explanations are included in code at the end of each major function
 
 **Resampling/Cropping Code:**
 <br />  -"resample_crop.ipynb"
   <br />-requires MTLE files as root directory
   <br />-remove final "break" in bottom cell to run with all patients
-  <br />-references/Explanations are included in code at the end of each major function
+  <br />-references/explanations are included in code at the end of each major function
 
 **Utils Code:**
 <br /> -"utils.ipynb"
