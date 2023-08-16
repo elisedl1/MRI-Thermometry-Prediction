@@ -15,7 +15,7 @@
 **Utils Code:**
 <br /> -"utils.ipynb"
 <br /> -removes t2w MRIs (as well as any other specified ones) using variable called bad_list
-<br /> -combines segmentation and anatomical MRIs probesEye
+<br /> -combines segmentation and anatomical MRIs probesEye pngs for use in training
 
 **Segmentation + Resampling Pipeline Visualization:**
 
