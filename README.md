@@ -3,6 +3,8 @@
   <br />-"segmentation_all.ipynb"
   <br />-The root directory contains all "LP-xxxx" files. This must include anatomicalProbesEye and temperatureData.
   <br />-references/explanations are included in code at the end of each major function
+  <br /> -extractor.py in repo <u>MUST REPLACE THE IMPORTED VERSION</u>
+  <br />       -this can be done by copy/pasting
 
 **Resampling/Cropping Code:**
 <br />  -"resample_crop.ipynb"
