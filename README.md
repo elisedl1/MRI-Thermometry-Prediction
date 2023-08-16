@@ -14,3 +14,7 @@
 <br /> -"utils.ipynb"
 <br /> -removes t2w MRIs (as well as any other specified ones) using variable called bad_list
 <br /> -combines segmentation and anatomical MRIs probesEye
+
+**Segmentation + Resampling Pipeline Visualization:**
+
+<br />![pipeline](https://github.com/elisedl1/BrainSeg-Setup/assets/95655831/187ebf73-a665-480c-a13b-35315f908b29)
