@@ -18,5 +18,6 @@
 <br /> -combines segmentation and anatomical MRIs probesEye pngs for use in training
 
 **Segmentation + Resampling Pipeline Visualization:**
+<br /> Hyperparemeters used: lr = 0.0022 batch_size = 16 epochs = 500
 
 <br />![pipeline](https://github.com/elisedl1/BrainSeg-Setup/assets/95655831/187ebf73-a665-480c-a13b-35315f908b29)
