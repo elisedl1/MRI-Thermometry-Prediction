@@ -17,6 +17,11 @@
 <br /> -removes t2w MRIs (as well as any other specified ones) using variable called bad_list
 <br /> -combines segmentation and anatomical MRIs probesEye pngs for use in training
 
+**Visualization Code:**
+<br /> -"Final_visualization.ipynb"
+<br /> - Visualizes ProbesEye png with specific laser location
+<br /> Visualizes 3D slider for DICOM images (converts to nifti in order to visualize)
+
 **Segmentation + Resampling Pipeline Visualization:**
 <br /> Hyperparemeters used: lr = 0.0022 batch_size = 16 epochs = 800
 
